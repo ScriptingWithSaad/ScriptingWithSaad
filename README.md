@@ -35,11 +35,11 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 
 ### 📡 Connect
 
-| | |
-|---|---|
-| 💼 LinkedIn | [script-with-saad](https://www.linkedin.com/in/script-with-saad/) |
-| 📘 Facebook | [Script With Saad](https://www.facebook.com/profile.php?id=61567860440166) |
-| ✉️ Email | muhammadsaad965000@gmail.com |
+<a href="https://www.linkedin.com/in/script-with-saad/"><img src="https://img.shields.io/badge/-script--with--saad-05122A?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<br>
+<a href="https://www.facebook.com/profile.php?id=61567860440166"><img src="https://img.shields.io/badge/-Script%20With%20Saad-05122A?style=flat-square&logo=facebook&logoColor=1877F2"/></a>
+<br>
+<a href="mailto:muhammadsaad965000@gmail.com"><img src="https://img.shields.io/badge/-muhammadsaad965000@gmail.com-05122A?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 
 </td>
 </tr>
@@ -70,11 +70,52 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 
 <div align="center">
 
-<a href="https://github.com/ScriptingWithSaad/Saad-Fast-Food-re-imagine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Saad-Fast-Food-re-imagine&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
-<a href="https://github.com/ScriptingWithSaad/Saad-Gym-Center-Re-Imagine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Saad-Gym-Center-Re-Imagine&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
-<br>
-<a href="https://github.com/ScriptingWithSaad/Lazarev-Landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Lazarev-Landing-page&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
-<a href="https://github.com/ScriptingWithSaad/Miranda-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Miranda-Landing-Page&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Miranda Landing Page**
+Modern landing page rebuild focused on layout & responsiveness.
+<a href="https://scriptingwithsaad.github.io/Miranda-Landing-Page/"><img src="https://img.shields.io/badge/-View%20Live-05122A?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Lazarev Landing Page**
+Agency-style landing page with clean animations.
+<a href="https://scriptingwithsaad.github.io/Lazarev-Landing-page/"><img src="https://img.shields.io/badge/-View%20Live-05122A?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**CyberFiction Landing Page**
+Dark, futuristic themed landing page build.
+<a href="https://scriptingwithsaad.github.io/CyberFiction-Landing-Page/"><img src="https://img.shields.io/badge/-View%20Live-05122A?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Zelt Landing Page**
+Clean, corporate-style HR/SaaS landing page.
+<a href="https://scriptingwithsaad.github.io/Zelt-Landing-Page/"><img src="https://img.shields.io/badge/-View%20Live-05122A?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Works Landing Page**
+Portfolio-style landing page with a project showcase layout.
+<a href="https://scriptingwithsaad.github.io/Works-Landing-page/"><img src="https://img.shields.io/badge/-View%20Live-05122A?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -87,7 +128,7 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 <img src="https://github-readme-stats.vercel.app/api?username=ScriptingWithSaad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptingWithSaad&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptingWithSaad&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptingWithSaad&hide_border=true&background=0D1117&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 
 </div>
 
