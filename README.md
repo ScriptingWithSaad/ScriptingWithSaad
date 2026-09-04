@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,25&text=ING%20WITH%20SAAD&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,25&text=SCRIPT%20WITH%20SAAD&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
@@ -37,8 +37,8 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 
 | | |
 |---|---|
-| 💼 LinkedIn | [-with-saad](https://www.linkedin.com/in/-with-saad/) |
-| 📘 Facebook | [ With Saad](https://www.facebook.com/profile.php?id=61567860440166) |
+| 💼 LinkedIn | [script-with-saad](https://www.linkedin.com/in/script-with-saad/) |
+| 📘 Facebook | [Script With Saad](https://www.facebook.com/profile.php?id=61567860440166) |
 | ✉️ Email | muhammadsaad965000@gmail.com |
 
 </td>
@@ -53,7 +53,7 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 
 <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js"/>
 <img src="https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express"/>
@@ -70,11 +70,11 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 
 <div align="center">
 
-<a href="https://github.com/ingWithSaad/Saad-Fast-Food-re-imagine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ingWithSaad&repo=Saad-Fast-Food-re-imagine&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
-<a href="https://github.com/ingWithSaad/Saad-Gym-Center-Re-Imagine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ingWithSaad&repo=Saad-Gym-Center-Re-Imagine&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
+<a href="https://github.com/ScriptingWithSaad/Saad-Fast-Food-re-imagine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Saad-Fast-Food-re-imagine&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
+<a href="https://github.com/ScriptingWithSaad/Saad-Gym-Center-Re-Imagine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Saad-Gym-Center-Re-Imagine&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
 <br>
-<a href="https://github.com/ingWithSaad/Lazarev-Landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ingWithSaad&repo=Lazarev-Landing-page&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
-<a href="https://github.com/ingWithSaad/Miranda-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ingWithSaad&repo=Miranda-Landing-Page&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
+<a href="https://github.com/ScriptingWithSaad/Lazarev-Landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Lazarev-Landing-page&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
+<a href="https://github.com/ScriptingWithSaad/Miranda-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptingWithSaad&repo=Miranda-Landing-Page&theme=numbers&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/></a>
 
 </div>
 
@@ -84,10 +84,10 @@ I build web interfaces that don't just work — they feel right. Focused on clea
 
 ### 📈 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=ingWithSaad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingWithSaad&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ScriptingWithSaad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptingWithSaad&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ingWithSaad&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptingWithSaad&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
